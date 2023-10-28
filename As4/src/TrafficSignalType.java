@@ -1,0 +1,3 @@
+interface TrafficSignalType {
+    void control();
+}

@@ -1,0 +1,3 @@
+interface TrafficSignalFactory {
+    TrafficSignalType createTrafficSignal();
+}
